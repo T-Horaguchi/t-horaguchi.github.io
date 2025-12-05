@@ -22,14 +22,31 @@
             <li><a href="research.html">研究内容</a></li>
             <li><a href="publications.html">論文・発表リスト</a></li>
             <li><a href="contact.html" class="active">連絡先</a></li>
-        <li><a href="access.html">アクセス</a></li>
-</ul>
+            <li><a href="access.html">アクセス</a></li>
+        </ul>
     </nav>
     <main>
         <section>
             <h2>連絡先情報</h2>
             <p>福岡大学 物理科学科 助教</p>
-            <p>Email: t.horaguchi_at_fukuoka-u.ac.jp (_at_を@に置き換えてください。)</p>
+
+            <!-- メールアドレス（JSで安全に表示のみ生成） -->
+            <p>Email: <span id="mail"></span></p>
+
+            <script>
+                (function() {
+                    const a = "t.horaguchi";
+                    const b = "fukuoka-u";
+                    const c = "ac.jp";
+
+                    // 表示は「_at_」形式に変換（リンクなし）
+                    const display = a + " _at_ " + b + "." + c;
+
+                    // HTMLに反映
+                    document.getElementById("mail").textContent = display;
+                })();
+            </script>
+
         </section>
     </main>
     <footer>

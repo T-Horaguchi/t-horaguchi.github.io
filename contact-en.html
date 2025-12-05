@@ -16,21 +16,37 @@
     </div>
 </header>
 <nav>
-    <ul><li><a href="index-en.html">Home</a></li>
-<li><a href="profile-en.html">Profile</a></li>
-<li><a href="research-en.html">Research</a></li>
-<li><a href="publications-en.html">Publications</a></li>
-<li><a href="contact-en.html" class="active">Contact</a></li><li><a href="access-en.html">Access</a></li>
-</ul>
+    <ul>
+        <li><a href="index-en.html">Home</a></li>
+        <li><a href="profile-en.html">Profile</a></li>
+        <li><a href="research-en.html">Research</a></li>
+        <li><a href="publications-en.html">Publications</a></li>
+        <li><a href="contact-en.html" class="active">Contact</a></li>
+        <li><a href="access-en.html">Access</a></li>
+    </ul>
 </nav>
 <main>
-    
-        <section>
-            <h2>Contact Information</h2>
-            <p>Assistant Professor, Department of Applied Physics, Fukuoka University</p>
-<p>Email: t.horaguchi_at_fukuoka-u.ac.jp (Please replace _at_ with @.)</p>
-        </section>
-        
+    <section>
+        <h2>Contact Information</h2>
+        <p>Assistant Professor, Department of Applied Physics, Fukuoka University</p>
+
+        <!-- Secure email display only (no link, no @ in HTML) -->
+        <p>Email: <span id="mail"></span></p>
+
+        <script>
+            (function() {
+                const a = "t.horaguchi";
+                const b = "fukuoka-u";
+                const c = "ac.jp";
+
+                // display-only version with "_at_" (no link)
+                const display = a + " _at_ " + b + "." + c;
+
+                document.getElementById("mail").textContent = display;
+            })();
+        </script>
+
+    </section>
 </main>
 <footer>
     <p>&copy; 2025 T.Horaguchi. All Rights Reserved.</p>
