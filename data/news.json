@@ -3,11 +3,11 @@
     "date": "2025-09-23",
     "tag_ja": "論文",
     "tag_en": "Paper",
-    "title_ja": "マグノニック結晶におけるスピン波伝搬特性の障壁材料依存性に関する論文が英国物理学会のJournal of Physics D :Applied Physicsに掲載",
+    "title_ja": "人工周期構造「マグノニック結晶」におけるスピン波伝搬特性の障壁材料依存性に関する論文が 英国物理学会のJournal of Physics D :Applied Physicsに掲載されました。",
     "title_en": "Paper on wall-material dependence of magnonic band gap published",
-    "body_ja": "人工周期構造「マグノニック結晶」におけるスピン波伝搬特性の障壁材料依存性に関する論文が J. Phys. D: Appl. Phys. に掲載されました。",
+    "body_ja": "",
     "body_en": "Our paper on the wall-material dependence of spin-wave propagation in magnonic crystals has been published in J. Phys. D: Appl. Phys.",
-    "is_new": false,
+    "is_new": true,
     "paper": {
       "authors": "T. Matsunaga, T. Horaguchi, K. Kasahara, T. Manago",
       "title": "Wall material dependence of the band gap in magnonic crystals",
@@ -26,17 +26,17 @@
   "title_en": "Presented research at the 86th JSAP Autumn Meeting",
   "body_ja": "2025年9月7日〜10日に開催された「第86回応用物理学会秋季学術講演会」に参加し、マグノニック結晶に関する研究成果のポスター発表を2件行いました。",
   "body_en": "Participated in the 86th JSAP Autumn Meeting (September 7–10, 2025) and presented two poster contributions on magnonic crystal research.",
-  "is_new": false
+  "is_new": true
 },
   {
     "date": "2025-09-04",
     "tag_ja": "論文",
     "tag_en": "Paper",
-    "title_ja": "マグノニック結晶における障壁構造幅の影響を調査した論文が英国物理学会のJournal of Physics D :Applied Physicsに掲載",
+    "title_ja": "人工周期構造「マグノニック結晶」における障壁構造幅の影響を調査した論文が英国物理学会のJournal of Physics D :Applied Physicsに掲載されました。",
     "title_en": "Paper on wall-width-dependent magnonic band structure published",
-    "body_ja": "人工周期構造「マグノニック結晶」における障壁構造幅の影響を調査した論文が J. Phys. D: Appl. Phys. に掲載されました。",
+    "body_ja": "",
     "body_en": "Our paper on the effect of wall width in one-dimensional magnonic crystals has been published in J. Phys. D: Appl. Phys.",
-    "is_new": false,
+    "is_new": true,
     "paper": {
       "authors": "T. Horaguchi, Y. Takeda, T. Manago",
       "title": "Modulation of magnonic band structure via wall width variations in 1D magnonic crystals",
@@ -55,7 +55,7 @@
   "title_en": "Fukuoka University Open Campus was held",
   "body_ja": "2025年の福岡大学オープンキャンパスが開催され、多くの来場者に研究室紹介と実験展示を行いました。",
   "body_en": "The 2025 Fukuoka University Open Campus was held, where we introduced our laboratory and demonstrated experiments to many visitors.",
-  "is_new": false
+  "is_new": true
 },
   {
     "date": "2025-07-13",
@@ -65,7 +65,7 @@
     "title_en": "Organized \"Play with Semiconductors\" at Refresh Science Class",
     "body_ja": "応用物理学会主催のリフレッシュ理科教室（@春日ふれあい文化センター）に実行委員として参加しました。テーマは「半導体で遊ぼう」で、磁石発見器（NS判別つき）を作製しました。",
     "body_en": "I served as one of the organizing committee members for the \" Refresh Science Class\"  hosted by the Japan Society of Applied Physics at the Kasuga Fureai Culture Center. Under the theme \" Play with Semiconductors\" , our team developed a magnet detector capable of distinguishing between N and S poles.",
-    "is_new": false,
+    "is_new": true,
     "links": [
       {
         "label_ja": "春日市立図書館 イベントレポート［2025.7.13］",
@@ -78,11 +78,11 @@
     "date": "2025-05-09",
     "tag_ja": "論文・報道",
     "tag_en": "Paper & Press",
-    "title_ja": "Si/Al 傾斜材料による高効率スピン流生成に関する論文が Science Advances に掲載",
+    "title_ja": "プラチナを凌駕するスピン流生成効率を持つ Si/Al 傾斜材料の開発に関する論文が Science Advances に掲載されました。",
     "title_en": "Paper on Si/Al gradient materials for efficient spin current generation published in Science Advances",
-    "body_ja": "プラチナを凌駕するスピン流生成効率を持つ Si/Al 傾斜材料の開発に関する論文が Science Advances に掲載されました。",
+    "body_ja": "",
     "body_en": "Our paper on Si/Al gradient materials that outperform Pt in spin-current generation efficiency has been published in Science Advances.",
-    "is_new": false,
+    "is_new": true,
     "paper": {
       "authors": "T. Horaguchi, C. He, Z. Wen, H. Nakayama, T. Ohkubo, S. Mitani, H. Sukegawa, J. Fujimoto, K. Yamanoi, M. Matsuo, Y. Nozaki",
       "title": "Nanometer-thick Si/Al gradient materials for spin torque generation",
@@ -116,3 +116,4 @@
     ]
   }
 ]
+
