@@ -48,7 +48,6 @@ async function loadPublicationsEn() {
                 const y = pub.year ? pub.year : "";
                 const date = pub.date ? ` (${pub.date})` : "";
 
-                // ジャーナル文字列
                 let jText = pub.journal || "";
                 if (pub.volume) {
                     jText += ` <strong>${pub.volume}</strong>`;
@@ -60,7 +59,6 @@ async function loadPublicationsEn() {
                     jText += ` (${y})`;
                 }
 
-                // 将来URLを入れられるように（pub.url があればリンクにする）
                 let journalHtml;
                 if (pub.url) {
                     journalHtml =
@@ -82,62 +80,80 @@ async function loadPublicationsEn() {
             journalContainer.appendChild(yearBlock);
         });
 
-        /* ========== Conference Presentations ========== */
-        const presContainer = document.getElementById("presentation-container");
-        const pres = (data.presentations || []).slice();
+		/* ========== Conference Presentations ========== */
+		const allPres = (data.presentations || []).slice();
 
-        const presByYear = {};
-        pres.forEach(p => {
-            let year = null;
-            if (p.year) {
-                year = p.year;
-            } else if (p.date && p.date.length >= 4) {
-                year = parseInt(p.date.slice(0, 4), 10);
-            }
-            year = year || "Others";
-            if (!presByYear[year]) {
-                presByYear[year] = [];
-            }
-            presByYear[year].push(p);
-        });
+		const intlPres = allPres.filter(p => p.type === "international");
+		const domesticPres = allPres.filter(p => p.type === "domestic");
 
-        const presYears = Object.keys(presByYear).sort((a, b) => {
-            const na = parseInt(a, 10) || 0;
-            const nb = parseInt(b, 10) || 0;
-            return nb - na;
-        });
-        const latestPresYear = presYears[0];
+		function renderConferenceSectionEn(containerId, items) {
+			const container = document.getElementById(containerId);
+			if (!container) return;
 
-        presYears.forEach(year => {
-            const yearBlock = document.createElement("div");
-            yearBlock.className = "year-block";
+			const byYear = {};
+			items.forEach(p => {
+				let year = p.year;
+				if (!year && p.date && p.date.length >= 4) {
+					year = parseInt(p.date.slice(0, 4), 10);
+				}
+				year = year || "Others";
+				if (!byYear[year]) {
+					byYear[year] = [];
+				}
+				byYear[year].push(p);
+			});
 
-            const h3 = document.createElement("h3");
-            h3.className = "year-heading";
-            h3.textContent = year;
-            if (year === latestPresYear) {
-                h3.classList.add("latest-year");
-            }
-            yearBlock.appendChild(h3);
+			const years = Object.keys(byYear).sort((a, b) => {
+				const na = parseInt(a, 10) || 0;
+				const nb = parseInt(b, 10) || 0;
+				return nb - na; // 降順
+			});
+			const latestYear = years[0];
 
-            const ul = document.createElement("ul");
-            ul.className = "publications-list";
+			years.forEach(year => {
+				const yearBlock = document.createElement("div");
+				yearBlock.className = "year-block";
 
-            presByYear[year].forEach(p => {
-                const date = p.date ? `, ${p.date}` : "";
+				const h3 = document.createElement("h3");
+				h3.className = "year-heading";
+				h3.textContent = year;
+				if (year === latestYear) {
+					h3.classList.add("latest-year");
+				}
+				yearBlock.appendChild(h3);
 
-                const li = document.createElement("li");
-                li.innerHTML = `
-                    <div class="pub-title"><strong>${p.title_en}</strong></div>
-                    <div class="pub-authors">${p.authors_en}</div>
-                    <div class="pub-journal">${p.conference_en}${date}</div>
-                `;
-                ul.appendChild(li);
-            });
+				const ul = document.createElement("ul");
+				ul.className = "publications-list";
 
-            yearBlock.appendChild(ul);
-            presContainer.appendChild(yearBlock);
-        });
+				byYear[year].forEach(p => {
+					const dateStr   = p.date ? p.date : "";
+					const stylePart = p.style_en ? `[${p.style_en}]` : "";
+					const numberPart = p.number ? `${p.number}` : "";
+
+					const infoLine = [stylePart, numberPart].filter(Boolean).join(" ");
+
+					const li = document.createElement("li");
+					li.innerHTML = `
+						<div class="pub-title"><strong>${p.title_en}</strong></div>
+						<div class="pub-authors">${p.authors_en}</div>
+						<div class="pub-journal">
+							${p.conference_en}${dateStr ? " " + dateStr : ""}
+							${infoLine ? "<br>" + infoLine : ""}
+						</div>
+					`;
+					ul.appendChild(li);
+				});
+
+
+				yearBlock.appendChild(ul);
+				container.appendChild(yearBlock);
+			});
+		}
+
+		// 実際に描画
+		renderConferenceSectionEn("intl-container", intlPres);
+		renderConferenceSectionEn("domestic-container", domesticPres);
+
 
     } catch (e) {
         console.error("Failed to load publications (EN):", e);

@@ -105,8 +105,25 @@
       "title_en": "Development of High-sensitive ST-FMR with Amplitude Modulated Magnetic Field",
       "conference_ja": "The 70th Annual Conference on Magnetism and Magnetic Materials",
       "conference_en": "The 70th Annual Conference on Magnetism and Magnetic Materials",
-      "date": "2025-10-28"
+      "date": "2025-10-28",
+	  "type": "international",         
+	  "style_ja": "Poster",     
+	  "style_en": "Poster",    
+	  "number": "AR-06"
     }, 
+  {
+      "authors_ja": "○後藤 広哉、洞口 泰輔、眞砂 卓史",
+      "authors_en": "○Hiroya Goto, Taisuke Horaguchi, Takashi Manago",
+      "title_ja": "マグノントランジスタに向けたスピン波の伝搬特性解析",
+      "title_en": "Analysis of Spin Wave Propagation Characteristics for Magnon Transistor",
+      "conference_ja": "第86回応用物理学会秋季学術講演会",
+      "conference_en": "The 86th JSAP Autumn Meeting",
+      "date": "2025-09-07",
+	  "type": "domestic",         
+	  "style_ja": "ポスター",     
+	  "style_en": "Poster",    
+	  "number": "7p-P03-17"
+    },
  {
       "authors_ja": "○洞口 泰輔、眞砂 卓史",
       "authors_en": "○Taisuke Horaguchi, Takashi Manago",
@@ -114,7 +131,11 @@
       "title_en": "Wall Width Modulation Effects on Magnonic Band Structure:A Kronig–Penney Model Analysis",
       "conference_ja": "第86回応用物理学会秋季学術講演会",
       "conference_en": "The 86th JSAP Autumn Meeting",
-      "date": "2025-09-07"
+      "date": "2025-09-07",
+	  "type": "domestic",         
+	  "style_ja": "ポスター",     
+	  "style_en": "Poster",    
+	  "number": "7p-P03-18"
     },
  {
       "authors_ja": "○洞口 泰輔、眞砂 卓史",
@@ -123,17 +144,13 @@
       "title_en": "Nonlinear Magnon Scattering in 1D Magnonic Crystals",
       "conference_ja": "第86回応用物理学会秋季学術講演会",
       "conference_en": "The 86th JSAP Autumn Meeting",
-      "date": "2025-09-07"
+      "date": "2025-09-07",
+	  "type": "domestic",         
+	  "style_ja": "ポスター",     
+	  "style_en": "Poster",    
+	  "number": "7p-P03-19"
     },
- {
-      "authors_ja": "○後藤 広哉、洞口 泰輔、眞砂 卓史",
-      "authors_en": "○Hiroya Goto, Taisuke Horaguchi, Takashi Manago",
-      "title_ja": "マグノントランジスタに向けたスピン波の伝搬特性解析",
-      "title_en": "Analysis of Spin Wave Propagation Characteristics for Magnon Transistor",
-      "conference_ja": "第86回応用物理学会秋季学術講演会",
-      "conference_en": "The 86th JSAP Autumn Meeting",
-      "date": "2025-09-07"
-    },
+
  {
       "authors_ja": "○稲富 孝太郎、洞口 泰輔、眞砂 卓史",
       "authors_en": "○Kotaro Inatomi, Taisuke Horaguchi, Takashi Manago",
@@ -141,7 +158,11 @@
       "title_en": "Spin-wave propagation characteristics in magnonic crystal junction",
       "conference_ja": "第86回応用物理学会秋季学術講演会",
       "conference_en": "The 86th JSAP Autumn Meeting",
-      "date": "2025-09-07"
+      "date": "2025-09-07",
+	  "type": "domestic",         
+	  "style_ja": "ポスター",     
+	  "style_en": "Poster",    
+	  "number": "7p-P03-20"
     },
     {
       "authors_ja": "Taisuke Horaguchi, ○Takashi Manago",
@@ -150,7 +171,11 @@
       "title_en": "Control of the magnonic band gap in magnonic crystals by barrier width modulation",
       "conference_ja": "2nd Transnational Round Table on Magnonics, High-Frequency Spintronics, and Ultrafast Magnetism, Exeter",
       "conference_en": "2nd Transnational Round Table on Magnonics, High-Frequency Spintronics, and Ultrafast Magnetism, Exeter",
-      "date": "2025-06-16"
+      "date": "2025-06-16",
+	  "type": "international",         
+	  "style_ja": "ポスター",     
+	  "style_en": "Poster",    
+	  "number": "22"
     },
  {
       "authors_ja": "○上領 彩華, 洞口 泰輔, 眞砂 卓史",
@@ -159,7 +184,11 @@
       "title_en": "High-precision spin current evaluation by field-modulated spin-torque FMR",
       "conference_ja": "第72回応用物理学会春季学術講演会",
       "conference_en": "The 72nd JSAP Spring Meeting",
-      "date": "2025-03-15"
+      "date": "2025-03-15",
+	  "type": "domestic",         
+	  "style_ja": "ポスター",     
+	  "style_en": "Poster",    
+	  "number": "15p-P07-4"
     },
     {
       "authors_ja": "○中山颯人 、洞口泰輔 、山野井一人 、能崎幸雄",
@@ -168,7 +197,11 @@
       "title_en": "Composition ratio dependence of spin torque efficiency derived from alloy films using Si and Al",
       "conference_ja": "第48回 日本磁気学会学術講演会",
       "conference_en": "The 48th Annual Conference of Magnetics in Japan",
-      "date": "2024-09-26"
+      "date": "2024-09-26",
+	  "type": "domestic",         
+	  "style_ja": "口頭",     
+	  "style_en": "Oral",    
+	  "number": "26pB-12"
     },
     {
       "authors_ja": "○高木さゆり 、洞口泰輔 、山野井一人 、能崎幸雄",
@@ -177,16 +210,24 @@
       "title_en": "Current-induced switching of magnetic thin films with perpendicular magnetic anisotropy",
       "conference_ja": "第48回 日本磁気学会学術講演会",
       "conference_en": "The 48th Annual Conference of Magnetics in Japan",
-      "date": "2024-09-26"
+      "date": "2024-09-26",
+	  "type": "domestic",         
+	  "style_ja": "口頭",     
+	  "style_en": "Oral",    
+	  "number": "26pB-11"
     },
     {
       "authors_ja": "○中山颯人, 洞口泰輔, Cong He, Zhenchao Wen, 介川裕章, 大久保忠勝, 三谷誠司, 山野井一人, 能崎幸雄",
       "authors_en": "○Hayato Nakayama, Taisuke Horaguchi, Cong He, Zhenchao Wen, Hiroaki Sukegawa, Tadakatsu Ohkubo, Seiji Mitani, Kazuto Yamanoi, Yukio Nozaki",
       "title_ja": "組成傾斜界面の構造パラメータとスピントルク効率の相関に関する研究",
       "title_en": "Study on correlation between structural parameters and spin-torque efficiency of compositional gradient interface",
-      "conference_ja": "79th Annual Meeting(2024),The Physical Society of Japan",
+      "conference_ja": "日本物理学会第79回年次大会（2024年）",
       "conference_en": "79th Annual Meeting(2024),The Physical Society of Japan",
-      "date": "2024-09-16"
+      "date": "2024-09-16",
+	  "type": "domestic",         
+	  "style_ja": "口頭",     
+	  "style_en": "Oral",    
+	  "number": "16aPS-31"
     },
     {
       "authors_ja": "○Taisuke Horaguchi, Yuma Takeda, T. Manago",
@@ -195,25 +236,11 @@
       "title_en": "Magnonic Band Gap Control by the Wall Width Modulation in a 1D Magnonic Crystal",
       "conference_ja": "第85回応用物理学会秋季学術講演会",
       "conference_en": "The 85th JSAP Autumn Meeting",
-      "date": "2024-09-16"
-    },
-    {
-      "authors_ja": "○城門 太一, 洞口 泰輔, 眞砂 卓史",
-      "authors_en": "○Taichi Kido, Taisuke Horaguchi, Takashi Manago",
-      "title_ja": "マグノニック結晶のバンドギャップの障壁高さ依存性",
-      "title_en": "Wall height dependence of band gaps in magnonic crystals",
-      "conference_ja": "第85回応用物理学会秋季学術講演会",
-      "conference_en": "The 85th JSAP Autumn Meeting",
-      "date": "2024-09-19"
-    },
-    {
-      "authors_ja": "○今村 圭佑, 洞口 泰輔, 笠原 健司, 眞砂 卓史",
-      "authors_en": "○Keisuke Imamura, Taisuke Horaguchi, Kenji Kasahara, Takashi Manago",
-      "title_ja": "有機金属分解法で作製したイットリウム鉄ガーネット薄膜のスピン波の測定",
-      "title_en": "Spin wave measurements of YIG thin film deposited by MOD method.",
-      "conference_ja": "第85回応用物理学会秋季学術講演会",
-      "conference_en": "The 85th JSAP Autumn Meeting",
-      "date": "2024-09-19"
+      "date": "2024-09-16",
+	  "type": "domestic",         
+	  "style_ja": "口頭",     
+	  "style_en": "Oral",    
+	  "number": "16p-D61-7"
     },
     {
       "authors_ja": "○松永 朝成, 洞口 泰輔, 眞砂 卓史",
@@ -222,7 +249,37 @@
       "title_en": "Wall material dependence of the magnonic band gap in magnonic crystals",
       "conference_ja": "第85回応用物理学会秋季学術講演会",
       "conference_en": "The 85th JSAP Autumn Meeting",
-      "date": "2024-09-19"
+      "date": "2024-09-19",
+	  "type": "domestic",         
+	  "style_ja": "ポスター",     
+	  "style_en": "Poster",    
+	  "number": "19p-P06-13"
+    },
+    {
+      "authors_ja": "○城門 太一, 洞口 泰輔, 眞砂 卓史",
+      "authors_en": "○Taichi Kido, Taisuke Horaguchi, Takashi Manago",
+      "title_ja": "マグノニック結晶のバンドギャップの障壁高さ依存性",
+      "title_en": "Wall height dependence of band gaps in magnonic crystals",
+      "conference_ja": "第85回応用物理学会秋季学術講演会",
+      "conference_en": "The 85th JSAP Autumn Meeting",
+      "date": "2024-09-19",
+	  "type": "domestic",         
+	  "style_ja": "ポスター",     
+	  "style_en": "Poster",    
+	  "number": "19p-P06-14"
+    },
+    {
+      "authors_ja": "○今村 圭佑, 洞口 泰輔, 笠原 健司, 眞砂 卓史",
+      "authors_en": "○Keisuke Imamura, Taisuke Horaguchi, Kenji Kasahara, Takashi Manago",
+      "title_ja": "有機金属分解法で作製したイットリウム鉄ガーネット薄膜のスピン波の測定",
+      "title_en": "Spin wave measurements of YIG thin film deposited by MOD method.",
+      "conference_ja": "第85回応用物理学会秋季学術講演会",
+      "conference_en": "The 85th JSAP Autumn Meeting",
+      "date": "2024-09-19",
+	  "type": "domestic",         
+	  "style_ja": "ポスター",     
+	  "style_en": "Poster",    
+	  "number": "19p-P06-15"
     },
     {
       "authors_ja": "○洞口泰輔, 三谷誠司, 介川裕章, 山野井一人, 能崎幸雄",
@@ -231,7 +288,11 @@
       "title_en": "Evaluation of spin torque efficiency in Si/Al compositional gradient materials using damping modulation ST-FMR",
       "conference_ja": "スピントロニクス学術研究基盤と 連携ネットワーク（Spin-RNJ）シンポジウム2023",
       "conference_en": "8th Annual Meeting of the Spintronics Research Network of Japan",
-      "date": "2024-03-17"
+      "date": "2024-03-17",
+	  "type": "domestic",         
+	  "style_ja": "ポスター",     
+	  "style_en": "Poster",    
+	  "number": ""
     },	
     {
       "authors_ja": "○高木さゆり 、洞口泰輔 、山野井一人 、能崎幸雄",
@@ -240,7 +301,11 @@
       "title_en": "Experimental demonstration of SOT switching in a Pt/Co/Pt trilayer film fabricated on a Si/Al composition gradient material",
       "conference_ja": "電気学会マグネティクス研究会",
       "conference_en": "Technical Meeting on Magnetics",
-      "date": "2023-12-22"
+      "date": "2023-12-22",
+	  "type": "domestic",         
+	  "style_ja": "口頭",     
+	  "style_en": "Oral",    
+	  "number": "MAG-23-176"
     },
     {
       "authors_ja": "○Taisuke. Horaguchi, Cong He, Zenchao Wen, Tadakatsu Ohkubo, Seiji Mitani, Hiroaki Sukegawa, Junji Fujimoto, Kazuto Yamanoi, Mamoru Matsuo, Yukio Nozaki",
@@ -249,7 +314,24 @@
       "title_en": "Spin-Torque Gilbert Damping Modulation due to a Spin Current in Si/Al Compositional Gradient Material",
       "conference_ja": "MRM2023/IUMRS-ICA2023",
       "conference_en": "MRM2023 / IUMRS-ICA2023",
-      "date": "2023-12-14"
+      "date": "2023-12-14",
+	  "type": "international",         
+	  "style_ja": "Oral",     
+	  "style_en": "Oral",    
+	  "number": "A1-O401-03"
+    },
+	{
+      "authors_ja": "○Hayato Nakayama, Taisuke Horaguchi, Cong He, Hiroaki Sukegawa, Tadakatsu Ohkubo, Seiji Mitani, Kazuto Yamanoi, Yukio Nozaki",
+      "authors_en": "○Hayato Nakayama, Taisuke Horaguchi, Cong He, Hiroaki Sukegawa, Tadakatsu Ohkubo, Seiji Mitani, Kazuto Yamanoi, Yukio Nozaki",
+      "title_ja": "Control of Spin-torque Ferromagnetic Resonance Excitation Using Compositionally Graded Materials Consisting of Titanium and Tungsten",
+      "title_en": "Control of Spin-torque Ferromagnetic Resonance Excitation Using Compositionally Graded Materials Consisting of Titanium and Tungsten",
+      "conference_ja": "MRM2023/IUMRS-ICA2023",
+      "conference_en": "MRM2023 / IUMRS-ICA2023",
+      "date": "2023-12-14",
+	  "type": "international",         
+	  "style_ja": "Poster",     
+	  "style_en": "Poster",    
+	  "number": "A1-P304-14"
     },
     {
       "authors_ja": "○洞口 泰輔, Cong He, Zhenchao Wen, 大久保 忠勝, 三谷 誠司, 介川 裕章, 藤本 純治, 松尾 衛, 山野井 一人, 能崎 幸雄",
@@ -258,7 +340,11 @@
       "title_en": "Efficient Excitation of Spin Torque FMR using Light Metal Non-oxides",
       "conference_ja": "日本物理学会 第78回年次大会（2023年）",
       "conference_en": "78th Annual Meeting(2023),The Physical Society of Japan",
-      "date": "2023-09-16"
+      "date": "2023-09-16",
+	  "type": "Domestic",         
+	  "style_ja": "口頭",     
+	  "style_en": "Oral",    
+	  "number": "16pB102-8"
     },	
     {
       "authors_ja": "○中山颯人, 洞口泰輔, Cong He, 介川裕章, 大久保忠勝, 三谷誠司, 山野井一人, 能崎幸雄",
@@ -267,7 +353,11 @@
       "title_en": "Spin current generation using Ti/W gradient interface: II",
       "conference_ja": "日本物理学会 第78回年次大会（2023年）",
       "conference_en": "78th Annual Meeting(2023),The Physical Society of Japan",
-      "date": "2023-09-16"
+      "date": "2023-09-16",
+	  "type": "Domestic",         
+	  "style_ja": "ポスター",     
+	  "style_en": "Poster",    
+	  "number": "16aPS-20"
     },	
     {
       "authors_ja": "○佐々木良輔, 洞口泰輔, 山野井一人, 能崎幸雄",
@@ -276,7 +366,11 @@
       "title_en": "Fabrication of Si/Al gradient materials and evaluation of spin-torque generation efficiency",
       "conference_ja": "日本物理学会 第78回年次大会（2023年）",
       "conference_en": "78th Annual Meeting(2023),The Physical Society of Japan",
-      "date": "2023-09-16"
+      "date": "2023-09-16",
+	  "type": "domestic",         
+	  "style_ja": "ポスター",     
+	  "style_en": "Poster",    
+	  "number": "16aPS-16"
     },	
     {
       "authors_ja": "○佐々木良輔 、洞口泰輔 、山野井一人 、能崎幸雄",
@@ -285,7 +379,11 @@
       "title_en": "Evaluation of spin torque generation efficiency in a Si/Pt multilayer thin film",
       "conference_ja": "電気学会マグネティクス研究会",
       "conference_en": "Technical Meeting on Magnetics",
-      "date": "2023-8-8"
+      "date": "2023-8-8",
+	  "type": "domestic",         
+	  "style_ja": "口頭",     
+	  "style_en": "Oral",    
+	  "number": "MAG-23-077"
     },
     {
       "authors_ja": "○洞口 泰輔, C. He, Z. Wen, 大久保 忠勝, 三谷 誠司, 介川 裕章, 藤本 純治, 山野井 一人, 松尾 衛, 能崎 幸雄",
@@ -294,7 +392,11 @@
       "title_en": "Spin torque generation experiment using Si/Al compositional gradient material",
       "conference_ja": "スピントロニクス学術研究基盤と 連携ネットワーク（Spin-RNJ）シンポジウム2022",
       "conference_en": "7th Annual Meeting of the Spintronics Research Network of Japan",
-      "date": "2023-03-20"
+      "date": "2023-03-20",
+	  "type": "domestic",         
+	  "style_ja": "ポスター",     
+	  "style_en": "Poster" ,  
+	  "number": ""	  
     },
     {
       "authors_ja": "○Taisuke. Horaguchi, Cong He, Zenchao Wen, Tadakatsu Ohkubo, Kazuhiro Hono, Seiji Mitani, Hiroaki Sukegawa, Junji Fujimoto, Kazuto Yamanoi, Mamoru Matsuo, Yukio Nozaki",
@@ -303,16 +405,37 @@
       "title_en": "Spin Torque Generation using Si/Al Compositional Gradient Material",
       "conference_ja": "Advances in Functional Materials (AFM) Conference",
       "conference_en": "Advances in Functional Materials (AFM) Conference",
-      "date": "2023-01-11"
+      "date": "2023-01-11",
+	  "type": "international",         
+	  "style_ja": "Oral",     
+	  "style_en": "Oral",  
+	  "number": ""	  
+    },
+    {
+      "authors_ja": "○Hayato Nakayama, Taisuke Horaguchi, Kazuto Yamanoi, Yukio Nozaki",
+      "authors_en": "○Hayato Nakayama, Taisuke Horaguchi, Kazuto Yamanoi, Yukio Nozaki",
+      "title_ja": "Spin Current Generation using a Compositional Gradient Interface between Titanium and Tungsten Layers",
+      "title_en": "Spin Current Generation using a Compositional Gradient Interface between Titanium and Tungsten Layers",
+      "conference_ja": "Advances in Functional Materials (AFM) Conference",
+      "conference_en": "Advances in Functional Materials (AFM) Conference",
+      "date": "2023-01-11",
+	  "type": "international",         
+	  "style_ja": "Oral",     
+	  "style_en": "Oral",  
+	  "number": ""	  
     },
     {
       "authors_ja": "○洞口 泰輔, Cong He, Zhenchao Wen, 大久保 忠勝, 三谷 誠司, 介川 裕章, 藤本 純治, 松尾 衛, 山野井 一人, 能崎 幸雄",
       "authors_en": "○Taisuke Horaguchi, Cong He, Zhenchao Wen, Tadakatsu Ohkubo, Seiji Mitani, Hiroaki Sukegawa, Junji Fujimoto, Mamoru Matsuo, Kazuto Yamanoi, Yukio Nozaki",
       "title_ja": "Si/Al組成傾斜材料における非相反スピン変換",
-      "title_en": "Nonreciprocal spin conversion in Si/Al compositional gradient materials",
+      "title_en": "Nonreciprocal Spin Conversion in Si/Al Compositional Gradient Materials",
       "conference_ja": "日本物理学会 2022年秋季大会",
       "conference_en": "JPS 2022 Autumn Meeting",
-      "date": "2022-09-13"
+      "date": "2022-09-13",
+	  "type": "domestic",         
+	  "style_ja": "口頭",     
+	  "style_en": "Oral",    
+	  "number": "13aW631-1"
     },
     {
       "authors_ja": "○中山颯人, 洞口泰輔, 山野井一人, 能崎幸雄",
@@ -321,7 +444,11 @@
       "title_en": "Spin current generation using Ti/W gradient interface",
       "conference_ja": "日本物理学会 2022年秋季大会",
       "conference_en": "JPS 2022 Autumn Meeting",
-      "date": "2022-09-13"
+      "date": "2022-09-13",
+	  "type": "domestic",         
+	  "style_ja": "口頭",     
+	  "style_en": "Oral",    
+	  "number": "13aW631-2"
     },
     {
       "authors_ja": "○洞口 泰輔, 松尾 衛, 山野井 一人, 能崎 幸雄",
@@ -330,7 +457,11 @@
       "title_en": "Frequency-dependent artifacts in ST-FMR measurements",
       "conference_ja": "第46回 日本磁気学会学術講演会",
       "conference_en": "The 46th Annual Meeting of the Magnetics Society of Japan",
-      "date": "2022-09-07"
+      "date": "2022-09-07",
+	  "type": "domestic",         
+	  "style_ja": "口頭",     
+	  "style_en": "Oral",    
+	  "number": "07aB-7"
     },
     {
       "authors_ja": "○中山颯人, 洞口 泰輔, T. Scheike, 松尾衛, 山野井一人, 能崎幸雄",
@@ -339,7 +470,11 @@
       "title_en": "Sputtering condition dependence of spin-torque efficiency in Ti/W composition graded material",
       "conference_ja": "第46回 日本磁気学会学術講演会",
       "conference_en": "The 46th Annual Meeting of the Magnetics Society of Japan",
-      "date": "2022-09-07"
+      "date": "2022-09-07",
+	  "type": "domestic",         
+	  "style_ja": "口頭",     
+	  "style_en": "Oral",    
+	  "number": "07aB-8"
     },
     {
       "authors_ja": "○洞口 泰輔, 松尾 衛, 山野井 一人, 能崎 幸雄",
@@ -348,7 +483,11 @@
       "title_en": "Sensitivity improvement of spin-torque FMR measurements using NiCu alloys",
       "conference_ja": "電気学会マグネティクス研究会",
       "conference_en": "IEEJ Magnetics Research Meeting",
-      "date": "2022-08-04"
+      "date": "2022-08-04",
+	  "type": "domestic",         
+	  "style_ja": "口頭",     
+	  "style_en": "Oral",    
+	  "number": "MAG-22-084"
     },
     {
       "authors_ja": "○Taisuke. Horaguchi, Cong He, Zenchao Wen, Tadakatsu Ohkubo, Kazuhiro Hono, Seiji Mitani, Hiroaki Sukegawa, Junji Fujimoto, Kazuto Yamanoi, Mamoru Matsuo, Yukio Nozaki",
@@ -357,7 +496,24 @@
       "title_en": "Improvement of Spin Torque Efficiency using Si/Al Compositional Gradient Interface",
       "conference_ja": "The 24th International Colloquium on Magnetic Films and Surfaces (ICMFS-2022)",
       "conference_en": "The 24th International Colloquium on Magnetic Films and Surfaces (ICMFS-2022)",
-      "date": "2022-07-14"
+      "date": "2022-07-14",
+	  "type": "international",         
+	  "style_ja": "Poster",     
+	  "style_en": "Poster",  
+	  "number": "2-73"	  
+    },
+    {
+      "authors_ja": "○Hayato Nakayama, Taisuke Horaguchi, Kazuto Yamanoi, Yukio Nozaki",
+      "authors_en": "○Hayato Nakayama, Taisuke Horaguchi, Kazuto Yamanoi, Yukio Nozaki",
+      "title_ja": "Modulation of Spin-Torque Efficiency Using Ti/W Gradient Interface",
+      "title_en": "Modulation of Spin-Torque Efficiency Using Ti/W Gradient Interface",
+      "conference_ja": "The 24th International Colloquium on Magnetic Films and Surfaces (ICMFS-2022)",
+      "conference_en": "The 24th International Colloquium on Magnetic Films and Surfaces (ICMFS-2022)",
+      "date": "2022-07-14",
+	  "type": "international",         
+	  "style_ja": "Poster",     
+	  "style_en": "Poster",  
+	  "number": "2-79"	  
     },
     {
       "authors_ja": "○洞口 泰輔",
@@ -366,7 +522,11 @@
       "title_en": "High-precision spin torque analysis using spin-torque ferromagnetic resonance",
       "conference_ja": "電気学会専門技術調査委員会",
       "conference_en": "IEEJ Technical Committee",
-      "date": "2022-06-10"
+      "date": "2022-06-10",
+	  "type": "domestic",         
+	  "style_ja": "口頭, 招待講演",     
+	  "style_en": "Oral, Invited",  
+	  "number": ""	  
     },
     {
       "authors_ja": "○榊原祐貴, 黒川雄一郎, 洞口泰輔, 山野井一人, 湯浅裕美, 能崎幸雄",
@@ -375,16 +535,24 @@
       "title_en": "Study on spin orbit torque modulation using oblique-angle sputter deposition",
       "conference_ja": "電気学会マグネティクス研究会",
       "conference_en": "Technical Meeting on Magnetics",
-      "date": "2021-12-16"
+      "date": "2021-12-16",
+	  "type": "domestic",         
+	  "style_ja": "口頭",     
+	  "style_en": "Oral",    
+	  "number": "MAG-21-143"
     },
     {
       "authors_ja": "○洞口泰輔, 大久保忠勝, 宝野和博, Zhenchao Wen, 三谷誠司, 介川裕章, 能崎幸雄",
       "authors_en": "○Taisuke Horaguchi, Tadakatsu Ohkubo, Kazuhiro Hono, Zhenchao Wen, Seiji Mitani, Hiroaki Sukegawa, Yukio Nozaki ",
-      "title_ja": "界面拡散させたSi/Al 2 層膜に対するスピントルク効率の測定",
+      "title_ja": "界面拡散させたSi/Al 2層膜に対するスピントルク効率の測定",
       "title_en": "Measurement of spin torque efficiency in Si/Al bilayers with interfacial diffusion",
       "conference_ja": "日本物理学会 第76回年次大会",
       "conference_en": "The 76th Annual Meeting of the Physical Society of Japan",
-      "date": "2021-3-12"
+      "date": "2021-3-12",
+	  "type": "domestic",         
+	  "style_ja": "ポスター",     
+	  "style_en": "Poster",    
+	  "number": "PSC-10"
     },
     {
       "authors_ja": "○Taisuke Horaguchi, Yukio Nozaki",
@@ -393,7 +561,11 @@
       "title_en": "Influence of Perpendicular RF Fields in Spin Torque FMR Measurement",
       "conference_ja": "Magnetics and Optics Research International Symposium (MORIS2019)",
       "conference_en": "Magnetics and Optics Research International Symposium (MORIS2019)",
-      "date": "2020-06-25"
+      "date": "2020-06-25",
+	  "type": "international",         
+	  "style_ja": "Poster",     
+	  "style_en": "Poster",  
+	  "number": "Tu-P-19"	  
     },
     {
       "authors_ja": "○洞口 泰輔, 松尾 衛, 能崎 幸雄",
@@ -402,7 +574,11 @@
       "title_en": "Measurement of small spin torque in Si/Al/NiCu multilayers by analyzing spin-torque FMR spectra",
       "conference_ja": "Spin-RNJ若手オンライン研究発表会",
       "conference_en": "Spin-RNJ Young Researchers Online Workshop",
-      "date": "2020-06-07"
+      "date": "2020-06-07",
+	  "type": "domestic",         
+	  "style_ja": "口頭",     
+	  "style_en": "Oral",    
+	  "number": "1E-7"
     },
     {
       "authors_ja": "○Taisuke Horaguchi, Mamoru Matsuo, Yukio Nozaki",
@@ -411,7 +587,11 @@
       "title_en": "Improvement of Spin Torque Efficiency of Al/Si Bilayer with Quasi Graded Interface",
       "conference_ja": "New Perspective in Spin Conversion Science (NPSCS2020)",
       "conference_en": "New Perspective in Spin Conversion Science (NPSCS2020)",
-      "date": "2020-02-03"
+      "date": "2020-02-03",
+	  "type": "international",         
+	  "style_ja": "Poster",     
+	  "style_en": "Poster",   
+	  "number": "44"	  
     },
     {
       "authors_ja": "○洞口 泰輔, 能崎 幸雄",
@@ -420,7 +600,11 @@
       "title_en": "Measurement of small spin-torque modulation via interfacial insertion layers using spin-torque FMR spectra",
       "conference_ja": "スピントロニクス学術研究基盤と連携ネットワーク拠点2019年度年次報告会",
       "conference_en": "Annual Meeting of the Spintronics Research Network (FY2019)",
-      "date": "2019-12-09"
+      "date": "2019-12-09",
+	  "type": "domestic",         
+	  "style_ja": "ポスター",     
+	  "style_en": "Poster",  
+	  "number": ""	    
     },
     {
       "authors_ja": "○洞口 泰輔, 能崎 幸雄",
@@ -429,7 +613,11 @@
       "title_en": "Spin current generation using junction interfaces of weak spin–orbit interaction materials",
       "conference_ja": "第42回日本磁気学会学術講演会",
       "conference_en": "The 42nd Annual Meeting of the Magnetics Society of Japan",
-      "date": "2018-09-19"
+      "date": "2018-09-19",
+	  "type": "domestic",         
+	  "style_ja": "ポスター",     
+	  "style_en": "Poster",    
+	  "number": "11pPS-16"
     },
     {
       "authors_ja": "○洞口 泰輔, 能崎 幸雄",
@@ -438,7 +626,11 @@
       "title_en": "Evaluation of small spin torque from field-angle dependence of spin-torque FMR spectra",
       "conference_ja": "日本物理学会 2019年秋季大会",
       "conference_en": "The Physical Society of Japan Autumn Meeting",
-      "date": "2018-09-10"
+      "date": "2018-09-10",
+	  "type": "domestic",         
+	  "style_ja": "ポスター",     
+	  "style_en": "Poster",    
+	  "number": "10aPS-18"
     },
     {
       "authors_ja": "○洞口 泰輔, 能崎 幸雄",
@@ -447,7 +639,11 @@
       "title_en": "Spin current generation using Cu/Si junction films",
       "conference_ja": "日本物理学会 2018年秋季大会",
       "conference_en": "The Physical Society of Japan Autumn Meeting 2018",
-      "date": "2018-09-09"
+      "date": "2018-09-09",
+	  "type": "domestic",         
+	  "style_ja": "ポスター",     
+	  "style_en": "Poster",    
+	  "number": "9aPS-25"
     },
     {
       "authors_ja": "○Taisuke Horaguchi, Tomoki Tanazawa, Yukio Nozaki",
@@ -456,7 +652,11 @@
       "title_en": "Spectroscopic Evaluation of Non-Adiabatic Spin Transfer Torque Using Coupled Oscillation of Magnetic Vortices",
       "conference_ja": "Intermag2018",
       "conference_en": "Intermag 2018",
-      "date": "2018-04-25"
+      "date": "2018-04-25",
+	  "type": "international",         
+	  "style_ja": "Poster",     
+	  "style_en": "Poster",   
+	  "number": "CQ-06"	  
     },
     {
       "authors_ja": "○洞口 泰輔, 棚澤 友幾, 能崎 幸雄",
@@ -474,7 +674,11 @@
       "title_en": "Non-adiabatic Spin Transfer Torque investigated by Analyzing Spectra of Coupled Oscillations of Magnetic Vortices",
       "conference_ja": "平成29年度ナノスピン変換科学年次報告会",
       "conference_en": "FY2017 Annual Meeting on Nano Spin Conversion Science",
-      "date": "2018-03-12"
+      "date": "2018-03-12",
+	  "type": "domestic",         
+	  "style_ja": "ポスター",     
+	  "style_en": "Poster",  
+	  "number": ""	   
     },
     {
       "authors_ja": "○洞口 泰輔, 棚澤 友幾, 能崎 幸雄",
@@ -483,7 +687,11 @@
       "title_en": "Evaluation of nonadiabatic spin torque via analysis of coupled-resonance spectra of magnetic vortex pairs",
       "conference_ja": "Spin-RNJ Symposium 2017",
       "conference_en": "Spin-RNJ Symposium 2017",
-      "date": "2018-03-01"
+      "date": "2018-03-01",
+	  "type": "domestic",         
+	  "style_ja": "ポスター",     
+	  "style_en": "Poster",  
+	  "number": ""	  
     },
     {
       "authors_ja": "○Taisuke Horaguchi, Tomoki Tanazawa, Yukio Nozaki",
@@ -492,7 +700,11 @@
       "title_en": "Analysis of Coupled Oscillation of Magnetic Vortices Excited by Spin Transfer Torque",
       "conference_ja": "SpinTECH IX International school and conference 2017",
       "conference_en": "SpinTECH IX International School and Conference 2017",
-      "date": "2017-06-07"
+      "date": "2017-06-07",
+	  "type": "international",         
+	  "style_ja": "Poster",     
+	  "style_en": "Poster",   
+	  "number": "B-154"	  
     }
   ]
 }
