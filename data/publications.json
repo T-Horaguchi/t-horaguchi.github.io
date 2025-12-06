@@ -402,7 +402,7 @@
       "authors_ja": "○Taisuke. Horaguchi, Cong He, Zenchao Wen, Tadakatsu Ohkubo, Kazuhiro Hono, Seiji Mitani, Hiroaki Sukegawa, Junji Fujimoto, Kazuto Yamanoi, Mamoru Matsuo, Yukio Nozaki",
       "authors_en": "○Taisuke. Horaguchi, Cong He, Zenchao Wen, Tadakatsu Ohkubo, Kazuhiro Hono, Seiji Mitani, Hiroaki Sukegawa, Junji Fujimoto, Kazuto Yamanoi, Mamoru Matsuo, Yukio Nozaki",
       "title_ja": "Spin torque generation using Si/Al compositional gradient material",
-      "title_en": "Spin torque generation using Si/Al compositional gradient material,
+      "title_en": "Spin torque generation using Si/Al compositional gradient material",
       "conference_ja": "Advances in Functional Materials (AFM) Conference",
       "conference_en": "Advances in Functional Materials (AFM) Conference",
       "date": "2023-01-11",
@@ -708,4 +708,5 @@
     }
   ]
 }
+
 
