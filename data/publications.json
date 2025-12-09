@@ -25,8 +25,8 @@
 	  "url": "https://doi.org/10.1088/1361-6463/adff91"
     },
     {
-      "authors_ja": "Taisuke Horaguchi, Cong He, Zenchao Wen, Hayato Nakayama, Tadakatsu Ohkubo, Seiji Mitani,Hiraki SUkegawa, Junji Fujimoto, Kazuto Yamanoi, Mamoru Matsuo, Yukio Nozaki",
-      "authors_en": "Taisuke Horaguchi, Cong He, Zenchao Wen, Hayato Nakayama, Tadakatsu Ohkubo, Seiji Mitani,Hiraki SUkegawa, Junji Fujimoto, Kazuto Yamanoi, Mamoru Matsuo, Yukio Nozaki",
+      "authors_ja": "Taisuke Horaguchi, Cong He, Zenchao Wen, Hayato Nakayama, Tadakatsu Ohkubo, Seiji Mitani,Hiraki Sukegawa, Junji Fujimoto, Kazuto Yamanoi, Mamoru Matsuo, Yukio Nozaki",
+      "authors_en": "Taisuke Horaguchi, Cong He, Zenchao Wen, Hayato Nakayama, Tadakatsu Ohkubo, Seiji Mitani,Hiraki Sukegawa, Junji Fujimoto, Kazuto Yamanoi, Mamoru Matsuo, Yukio Nozaki",
       "title_ja": "Nanometer-thick Si/Al gradient materials for spin torque generation",
       "title_en": "Nanometer-thick Si/Al gradient materials for spin torque generation",
       "journal": "Science Advances",
@@ -708,6 +708,7 @@
     }
   ]
 }
+
 
 
 
